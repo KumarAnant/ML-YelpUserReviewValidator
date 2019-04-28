@@ -9,7 +9,6 @@ from sklearn.feature_extraction.text import TfidfTransformer
 from sklearn.pipeline import Pipeline
 
 import os
-os.chdir('E:/OneDrive/Data Science/Udemy/Python for Data Science and Machine Learning/Resources/20-Natural-Language-Processing')
 
 yelp = pd.read_csv('yelp.csv')
 yelp.head()
