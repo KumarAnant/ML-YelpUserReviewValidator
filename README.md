@@ -22,7 +22,7 @@
 ![](/images/heatmap.png)
 
 
-![](/images/model1_report.png)
+![](/images/model1_report.jpg)
 
 
-![](/images/model2_report.png)
+![](/images/model2_report.jpg)
