@@ -16,10 +16,12 @@
 ![](/images/starsVsLength.png)
 
 
+
 ![](/images/bosplot_stars.png)
 
 
 ![](/images/heatmap.png)
+
 
 
 ![](/images/model1_report.jpg)
